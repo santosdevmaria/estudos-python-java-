@@ -18,6 +18,6 @@ Para cada problema abordado:
 
 ---
 
-## Estrutura do Repositóri
+## Estrutura do Repositório
 '''text
 
